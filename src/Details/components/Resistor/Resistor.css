@@ -1,0 +1,54 @@
+/* .r{
+    background-color: rgba(58, 121, 209, 0.715);
+} */
+/* .rfrst{
+    background-image: url('https://cdn.sparkfun.com/assets/c/4/a/9/d/515c7a2bce395f653d000002.png');
+    width: 1480px;
+    height: 800px;
+    padding: 40px;
+    display: flex;
+    margin-top: 15px;
+    
+} */
+.main{
+    background-color:rgb(211, 158, 93);
+    font-family: "Amazon Ember", Arial, sans-serif;
+}
+.rfrst{
+    margin-top: 50px;
+    padding: 10px;
+   
+}
+.re{
+    margin-top: 50px;
+    text-align: left;
+    margin-left: 20px;
+    background-color: lightgray;
+    margin-bottom: 50px;
+   padding: 20px;
+}
+.col{
+    display: flex;
+    width: 100rem;
+    
+}
+.cimg{
+    width: 300px;
+    height: 200px;
+}
+.card{
+    display: block;
+    padding: 30px;
+    box-shadow: 1px 2px 3px 1px;
+}
+.tx{
+    text-align: justify;
+}
+.add{
+    margin-bottom: 10px;
+    
+    display: flex;
+    gap: 70px;
+}
+
+

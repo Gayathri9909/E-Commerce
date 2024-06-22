@@ -1,0 +1,41 @@
+.adminmain{
+    display: flex;
+    max-width: 1478px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    height: 700px;
+  }
+  
+  .afrst {
+    flex: 1;
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    width: 200px;
+  }
+  .main-content {
+    width: 1100px;
+    padding: 20px;
+  }
+  .userlist{
+    margin-left: 50px;
+    display: flex;
+    gap: 300px;
+  }
+  .productlist{
+    display: flex;
+    gap: 265px;
+  }
+  .orderlist{
+    display: flex;
+    gap: 289px;
+  }
+  .weblist{
+    box-shadow: 1px 1px 2px 1px black;
+    margin-top: 300px;
+    display: flex;
+    gap: 275px;
+    height: 100px;
+  }
+  
+  

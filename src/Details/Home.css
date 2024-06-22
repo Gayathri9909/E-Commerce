@@ -1,0 +1,112 @@
+.fr{
+    /* background-color: rgba(58, 121, 209, 0.715); */
+    background-color: rgb(14, 12, 12);
+    width: 1470px;
+    height: 1000px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(211, 158, 93);
+}
+.sc{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.mbtn{
+    width: 180px;
+    background-color: white;
+    color: black;
+    border: none;
+}
+.mbtn:hover{
+    background-color: white;
+    color: black;
+}
+.fimg{
+    width: 158px;
+    height: 150px;
+}
+/* .car{
+    width: 400px;
+    height: 190px;
+} */
+
+.img{
+    width: 150px;
+    height: 100px;
+    padding: 20px;
+}
+.cartimg{
+    width: 22px;
+}
+.btn{
+    background-color:rgb(211, 158, 93);
+   
+    border: none;
+}
+.th{
+    padding: 10px;
+}
+.p{
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 50px;
+    text-align: left;
+}
+.image{
+    width: 1480px;
+    height: 380px;
+}
+.lo{
+    color: black;
+    padding-right: 10px;
+}
+.lobtn:hover{
+    background-color: green;
+   
+}
+.footer{
+    background-color:rgb(32, 18, 18);
+    width: 1470px;
+    height: 300px;
+    box-shadow: 1px 1px 10px 1px white;
+    box-sizing: border-box;
+    display: flex;
+}
+.foofrst{
+    text-align: left;
+    margin-left: 70px;
+    margin-bottom: 100px;
+}
+.foofrst1{
+    margin-top: 40px;
+    text-decoration:underline;
+}
+
+.foofrst2{
+    text-decoration: underline;
+    margin-left: 10px;
+}
+.end{
+    margin-top: 40px;
+    text-align: center;
+    margin-left: 250px;
+    font-family:sans-serif;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.twi{
+    width: 40px;
+    height: 40px;
+    margin-right: 30px;
+}
+.fb{
+    width: 100px;
+    height: 100px; 
+    padding: 30px;
+}
+.best{
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}

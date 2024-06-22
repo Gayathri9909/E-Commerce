@@ -1,0 +1,76 @@
+.bfrst{
+    margin-top: 50px;
+    padding: 10px;
+}
+.main{
+    /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfTObzaFLHlJxq8pylYM3dXDi-93965j5lgQtsXH89Jw3qgTZS6lcsL0BZA3lJeUHAoGk&usqp=CAU"); */
+    /* background-color: white; */
+    /* background-blend-mode: lighten; */
+    background-image: linear-gradient(to right,whitesmoke, white);
+    /* background-color:rgb(211, 158, 93); */
+    font-family: "Amazon Ember", Arial, sans-serif;
+    height: 1900px;
+    color:rgb(211, 158, 93);
+}
+.add{
+    margin-bottom: 40px;
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 120px;
+}
+.be{
+    text-align: left;
+    margin-left: 40px;
+    margin-bottom: 50px;
+   padding: 20px;
+   font-family:fantasy;
+   font-size:70px;
+}
+.col1{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 33px;
+    margin-left: 25px;
+    margin-right: 10px;
+    /* width: 140rem; */
+    
+}
+
+.col2{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 55px;
+    margin-left: 25px;
+    margin-right: 10px;
+    /* width: 140rem; */
+    
+}
+ .cimg{
+    width: 400px;
+    height: 200px;
+}
+/* .card{
+    display: block;
+    margin-left: 70px;
+    margin-right: 40px;
+    padding: 30px;
+} */ 
+.he{
+    margin-top: 40px;
+   
+}
+.tx:hover{
+    color:rgb(211, 158, 93);
+}
+.mw{
+    width: 80px;
+    height: 70px;
+    text-align: right;
+    justify-content: right;
+}
+.center{
+    display: flex;
+    gap: 800px;
+}
+

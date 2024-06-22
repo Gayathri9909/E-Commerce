@@ -1,0 +1,16 @@
+.dec{
+    /* margin-left: "400px"; */
+    background-color:rgb(21, 109, 191);
+    height: 45px;
+    padding-left: "10px";
+}
+.buybutton{
+    background-color:rgb(21, 109, 191);
+    width: 180px;
+    height: 50px;
+    color: white;
+    font-weight: 500;
+    border-radius: 5px;
+    border-color: lightcyan;
+    margin-bottom: 10px;
+}

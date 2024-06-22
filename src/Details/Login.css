@@ -1,0 +1,33 @@
+
+.frst{
+    width: 1000px;
+    display: inline-block;
+    background-color: #f0f2f5;;
+    /* background-color: rgba(58, 121, 209, 0.715); */
+    box-shadow: 5px 5px 5px 5px gray;
+    border-radius: 8px;
+    font-family: Arial, sans-serif;
+}
+.scnd{
+    margin-top: 10px;
+    padding-top: 60px;
+    
+}
+.in{
+    margin-left: 144px;
+    padding: 5px;
+}
+.in1{
+    margin-left: 175px;
+    padding: 5px;
+    margin-top: 5px;
+}
+.in2{
+    margin-left: 155px;
+    padding: 5px;
+    margin-top: 5px;
+}
+.B{
+    padding: 5px;
+    cursor: pointer;
+}
